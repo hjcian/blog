@@ -1,0 +1,4 @@
+baseURL = 'https://hjcian.github.io/'
+languageCode = 'en-us'
+title = "Max Cian Blog"
+theme="hugo-PaperMod"
